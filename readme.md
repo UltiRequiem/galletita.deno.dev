@@ -1,6 +1,6 @@
 # galletita.deno.dev
 
-Redirector to a playlist made for Rosa 🦀
+Redirector to a cool playlist 🦀
 
 ## [Oak](https://oakserver.github.io/oak)
 
